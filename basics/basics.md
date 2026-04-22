@@ -1,16 +1,16 @@
-# 🧱 Basics
+# Basics
 
-## 📚 About
+## About
 
 This folder covers the basic concepts of C programming, focusing on how data is stored and used.
 
 ---
 
-## 🔢 Data Types in C
+## Data Types in C
 
 In C, variables are used to store data, and each variable has a type.
 
-### 🔹 int
+### int
 - Stores integer numbers (whole numbers)
 
 - Example:
@@ -18,7 +18,7 @@ In C, variables are used to store data, and each variable has a type.
 int age = 20;
 
 
-### 🔹 float
+### float
 
 - Stores decimal numbers (less precision)
 
@@ -26,7 +26,7 @@ int age = 20;
 
 float height = 1.75;
 
-### 🔹 double
+### double
 
 - Stores decimal numbers with more precision than float
 
@@ -34,7 +34,7 @@ float height = 1.75;
 
 double pi = 3.1415926535;
 
-### 🔹 char
+### char
 
 -Stores a single character
 
@@ -44,7 +44,7 @@ double pi = 3.1415926535;
 
 char letter = 'A';
 
-### 📌 Notes
+### Notes
 
 - Every variable must have a type
 
@@ -54,6 +54,6 @@ char letter = 'A';
 
 - Each instruction ends with ;
 
-### 🎯 Goal
+### Goal
 
 - Understand the basic data types and how to use variables in C.
