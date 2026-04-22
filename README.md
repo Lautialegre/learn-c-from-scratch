@@ -2,12 +2,12 @@
 
 A personal repository to learn and practice C programming from the ground up.
 
-## 📚 About
+## About
 
 This repository contains notes, examples, and exercises while learning the C programming language.
 It is structured progressively, starting from basic concepts to more advanced topics.
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 * Basic syntax
 * Variables and data types
@@ -19,7 +19,7 @@ It is structured progressively, starting from basic concepts to more advanced to
 * Memory management
 * Structures
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 /basics
@@ -30,7 +30,7 @@ It is structured progressively, starting from basic concepts to more advanced to
 /projects
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 To compile and run a C program:
 
@@ -39,21 +39,20 @@ gcc program.c -o program
 ./program
 ```
 
-## 🎯 Goals
+## Goals
 
 * Understand core C concepts
 * Practice problem-solving
 * Build small projects
 * Improve low-level programming skills
 
-## 📌 Notes
+## Notes
 
 This is a learning repository, so code may evolve and improve over time.
 
-## 🤝 Contributions
+## Contributions
 
 Suggestions, improvements, and feedback are welcome!
 
 ---
 
-Happy coding! 💻
